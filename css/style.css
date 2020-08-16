@@ -1,0 +1,113 @@
+body,
+html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+main {
+    font-family: 'Recursive', sans-serif;
+    width: 1600px;
+    margin: 0 auto;
+}
+
+nav {
+    margin: 50px auto;
+    font-size: 14px;
+    width: 1300px;
+    padding-left: 90px;
+    color: black;
+    margin-left: 190px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav li {
+    text-align: center;
+    display: inline-block;
+    color: black;
+    margin-left: 70px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: black
+}
+
+nav li a:hover {
+    color: rgba(21, 199, 140, 0.959);
+}
+
+article {
+    font-size: 20px;
+    font-weight: 0;
+    color: black;
+    margin-top: -1px;
+    margin-bottom: 40px;
+}
+
+article h1 {
+    text-align: center;
+    margin: 0 auto 0 40px 0;
+}
+
+article ul {
+    margin: 0 auto;
+    padding: 0;
+    margin: 0px 100px 0px 100px;
+}
+
+article ul li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 2px
+}
+
+.fa {
+    padding: 10px 15px 10px 10px;
+    font-size: 30px;
+    width: 20px;
+    padding-top: -1px;
+    padding-bottom: -1px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px auto 2px;
+    border-radius: 50%
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    background: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-youtube {
+    background: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-pinterest {
+    background: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-tumblr {
+    background: black;
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-instagram {
+    background: black;
+    color: white;
+    margin-right: 10px;
+}
